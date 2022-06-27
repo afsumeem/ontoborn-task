@@ -1,0 +1,58 @@
+
+.form{
+    background-color: rgb(94, 94, 245);
+    margin:70px;
+    padding:20px;
+    }
+    
+    
+    
+    .header{
+    
+    text-align:center;
+    color:white;
+    margin-bottom:40px;
+    }
+    
+    .input-fields{
+    display:grid;
+    
+    grid-template-columns:repeat(3, 1fr);
+    }
+    
+    
+    
+    .input-field input{
+    
+    width:90%;
+    height:40px;
+    margin-top:10px;
+    border-radius:3px;
+    border:none;
+    }
+    
+    
+    .input-field textarea{
+    
+    width:95%;
+    height:80px;
+    margin-top:10px;
+    border-radius:3px;
+    border:none;
+    }
+    
+    .input-label{
+    color:white;
+    }
+    
+    .hire-us{
+    border:none;
+    padding: 15px 40px;
+    border-radius:3px;
+    color:white;
+    background-color:green;
+    font-size:17px;
+    font-weight:500;
+    
+    }
+    
